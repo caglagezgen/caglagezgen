@@ -1,7 +1,7 @@
 <div align="center">
 
   ## 👋🏻👩🏻‍🦰 Hello, I'm Çağla Gezgen  
-  ### <💻 Software Engineer/> 
+  ### <💻 Data / Applied AI / Machine Learning / Software Engineer /> 
 
   Beyond the code:  
   Explore my personal playground for more insights:  
